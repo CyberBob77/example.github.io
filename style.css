@@ -79,7 +79,6 @@ input[type=text] {
 .row {
   width: 150px;
   margin-top: 3rem;
-  margin-left: 3rem;
   border-color: #000000;
   border-style:groove;
   text-align: center;
@@ -254,12 +253,12 @@ input[type=text] {
     transition: padding 1s;
   }
   .dop img{
-    width: 50px;
+    width: 40px;
     height: 20px;
   
   }
   .dop{
-    width: 50px;
+    width: 40px;
     height: 20px;
     float: left;
     margin-top: 0;
