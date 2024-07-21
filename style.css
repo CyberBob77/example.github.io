@@ -74,10 +74,10 @@ input[type=text] {
 .flex{
   display: flex;
   flex-wrap:wrap;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 .row {
-  width: 150px;
+  width: 170px;
   margin-top: 3rem;
   border-color: #000000;
   border-style:groove;
@@ -85,7 +85,7 @@ input[type=text] {
   border-width: 1px;
 }
 .row img{
-    width: 120px;
+    width: 150px;
     margin: 0.5rem;
 }
 .row p{
